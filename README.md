@@ -29,8 +29,11 @@
 
 ## Technologies Used
 
-#### Python: 
-##### Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-####Jupyter Notebook: 
-#####For analysis and visualization
+#### Python - Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+#### Jupyter Notebook - For analysis and visualization
+
+## Model Performance
+
+#### Accuracy - Achieved high accuracy in predicting loan approvals.
+#### Precision and Recall -  Balanced performance in identifying approved and rejected loans
 
