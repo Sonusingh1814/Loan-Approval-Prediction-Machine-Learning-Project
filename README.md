@@ -26,3 +26,11 @@
 #### 3.Model Building and Evaluation:
 ##### Used classification models such as Logistic Regression and Decision Trees.
 ##### Evaluated performance using metrics like accuracy, precision, and recall.
+
+## Technologies Used
+
+#### Python: 
+##### Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+####Jupyter Notebook: 
+#####For analysis and visualization
+
