@@ -19,11 +19,11 @@
 ##### Transformed and encoded categorical variables.
 ##### Created new features like combined income and logarithm transformations.
 
-#### 2.Exploratory Data Analysis (EDA):
+#### 2. Exploratory Data Analysis (EDA):
 ##### Visualized the distribution of key features.
 ##### Identified correlations with the target variable.
 
-#### 3.Model Building and Evaluation:
+#### 3. Model Building and Evaluation:
 ##### Used classification models such as Logistic Regression and Decision Trees.
 ##### Evaluated performance using metrics like accuracy, precision, and recall.
 
@@ -37,3 +37,12 @@
 #### Accuracy - Achieved high accuracy in predicting loan approvals.
 #### Precision and Recall -  Balanced performance in identifying approved and rejected loans
 
+## Key Insights
+
+#### 1. Credit History is the strongest predictor of loan approval.
+#### 2. Married applicants and those in semi-urban areas show higher approval rates.
+#### 3. A balanced income-to-loan ratio improves the likelihood of approval.
+
+## Conclusion
+
+#### This project demonstrates how machine learning can effectively predict loan approval status and provide actionable insights for financial institutions. Further enhancements, such as incorporating additional features, can improve the model's accuracy and applicability.
